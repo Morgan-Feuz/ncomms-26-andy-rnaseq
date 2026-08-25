@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ANDY NAD-Deficiency Mouse Model: RNA-seq Analysis Code"
+type: software
+authors:
+  - family-names: "Feuz"
+    given-names: "Morgan B."
+    affiliation: "Department of Veterinary Clinical and Life Sciences, College of Veterinary Medicine, Utah State University"
+repository-code: "https://github.com/Morgan-Feuz/ncomms-26-andy-rnaseq"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-25"
+preferred-citation:
+  type: article
+  title: "Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes"
+  authors:
+    - family-names: "Benitez-Rosendo"
+      given-names: "Andres"
+    - family-names: "Feuz"
+      given-names: "Morgan B."
+  journal: "Nature Communications"
+  notes: "In revision at time of code release; manuscript NCOMMS-26-053722-T. Full citation and DOI will be added here once published."

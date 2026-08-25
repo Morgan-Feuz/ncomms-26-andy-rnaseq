@@ -5,9 +5,6 @@
 *.Rproj
 .Renviron
 
-# Add these lines to your repo's .gitignore so Claude Code's own
-# instructions/config files never get committed or pushed.
-
 CLAUDE.md
 .claude/
 .claude_*

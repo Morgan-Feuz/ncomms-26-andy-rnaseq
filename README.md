@@ -1,5 +1,7 @@
 # ANDY NAD-Deficiency Mouse Model: RNA-seq Analysis Code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22102722.svg)](https://doi.org/10.5281/zenodo.22102722)
+
 Custom analysis code accompanying:
 
 > Benitez-Rosendo, A. & Feuz, M. B. et al. Inducible chronic NAD deficiency in mice reveals multi-systemic phenotypical, metabolic, and transcriptional changes. *Nature Communications* (in revision; manuscript NCOMMS-26-053722-T). Full citation and DOI will be added here once published.
